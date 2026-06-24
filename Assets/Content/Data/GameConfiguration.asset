@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11110000000000000000000000000003, type: 3}
+  m_Name: GameConfiguration
+  m_EditorClassIdentifier: 
+  _tower: {fileID: 11400000, guid: ca7188e409cdbf04ba03c39147481f6f, type: 2}
+  _enemyConfigs:
+  - {fileID: 11400000, guid: b438c324f6234dc089969b6da3e8173d, type: 2}
+  - {fileID: 11400000, guid: 555bf63cc6c04abaaf7c5ffb00f96fbc, type: 2}
+  - {fileID: 11400000, guid: 521701cb020a419193d227776d519491, type: 2}
+  _gameplayPhaseConfig: {fileID: 11400000, guid: 996d5788de30704459f5703b8c081bb1, type: 2}

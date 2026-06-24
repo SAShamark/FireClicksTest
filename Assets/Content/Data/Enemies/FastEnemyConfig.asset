@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11110000000000000000000000000024, type: 3}
+  m_Name: FastEnemyConfig
+  m_EditorClassIdentifier: 
+  _prefab: {fileID: 1226530420586670733, guid: 3ecfe6ffd5254e3ea674523225af1a9e, type: 3}
+  _maxHealth: 22
+  _moveSpeed: 3.7
+  _attackDamage: 5
+  _attackInterval: 0.75
+  _attackRange: 1.05
+  _spawnWeight: 2.5
